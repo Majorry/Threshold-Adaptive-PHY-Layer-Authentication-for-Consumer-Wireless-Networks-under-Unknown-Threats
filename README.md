@@ -1,2 +1,2 @@
-# AAIF-A-Zero-knowledge-Training-and-Self-Adaptive-Scheme-for-Industrial-IoT-Environments
-This code implements AAIF, a robust physical layer authentication scheme for IIoT that combines Autoencoders and Adaptive Isolation Forest for zero-knowledge attacker detection.
+# Threshold-Adaptive PHY-Layer Authentication for Consumer Wireless Networks under Unknown Threats
+This code implements AAIF, a robust physical layer authentication scheme for consumer that combines Autoencoders and Adaptive Isolation Forest for zero-knowledge attacker detection.
